@@ -1,0 +1,139 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Category should match snapshot 1`] = `
+<body>
+  <div>
+    <section
+      class="svelte-6fcwxl"
+    >
+      <h3
+        class="svelte-6fcwxl"
+      >
+        <button
+          class="category-name svelte-6fcwxl"
+        >
+          Clothes
+        </button>
+         
+        <span
+          class="status svelte-6fcwxl"
+        >
+          1 of 2 remaining
+        </span>
+         
+        <button
+          class="icon svelte-6fcwxl"
+        >
+          🗑
+        </button>
+      </h3>
+       
+      <form>
+        <label>
+          New Item
+      
+          <input
+            class="svelte-6fcwxl"
+            data-testid="item-input"
+            required=""
+          />
+        </label>
+         
+        <button
+          class="svelte-6fcwxl"
+        >
+          Add Item
+        </button>
+      </form>
+       
+      <ul
+        class="svelte-6fcwxl"
+      >
+        <div
+          class="wrapper svelte-6fcwxl"
+        >
+          <li
+            class="svelte-1plz7zn"
+          >
+            <input
+              class="svelte-1plz7zn"
+              type="checkbox"
+            />
+             
+            <button
+              class="packed-false item-name svelte-1plz7zn"
+              draggable="true"
+            >
+              shoes
+            </button>
+             
+            <button
+              class="icon svelte-1plz7zn"
+              data-testid="delete"
+            >
+              🗑
+            </button>
+          </li>
+           
+        </div>
+        <div
+          class="wrapper svelte-6fcwxl"
+        >
+          <li
+            class="svelte-1plz7zn"
+          >
+            <input
+              class="svelte-1plz7zn"
+              type="checkbox"
+            />
+             
+            <button
+              class="packed-true item-name svelte-1plz7zn"
+              draggable="true"
+            >
+              socks
+            </button>
+             
+            <button
+              class="icon svelte-1plz7zn"
+              data-testid="delete"
+            >
+              🗑
+            </button>
+          </li>
+           
+        </div>
+      </ul>
+    </section>
+     
+    <dialog
+      class="dialog svelte-bqgys6"
+    >
+      <header
+        class="svelte-bqgys6"
+      >
+         
+        <div
+          class="title svelte-bqgys6"
+        >
+          Category
+        </div>
+         
+        <button
+          class="close-btn svelte-bqgys6"
+        >
+          ✖
+        </button>
+      </header>
+       
+      <main
+        class="svelte-bqgys6"
+      >
+        <div>
+          
+        </div>
+      </main>
+    </dialog>
+  </div>
+</body>
+`;
